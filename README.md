@@ -1,6 +1,13 @@
 ## Hi, I am Mahek Unnisa! Great to see you here! 👋
 
-I am Mahek. Currently I am a graduate from Osmania University, Hyderabad.I am a Self-taught FullStack Developer and Open Source Enthusiast. Whenever there is an opportunity to collaborate or develop innovative ideas, I'm always open to learning more. Find out more about me & feel free to connect with me here:
+I am Mahek. Currently I am a graduate from Osmania University, Hyderabad. I am a Self-taught FullStack Developer and Open Source Enthusiast. 
+Whenever there is an opportunity to collaborate or develop innovative ideas, I'm always open to learn more. 
+
+* _I am looking for entry level roles in Web developement._
+* _I am Open to collaborate and built exciting stuff._
+* _I am always ready to learn._
+
+Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-mahekunnisa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahekunnisa/)](https://www.linkedin.com/in/mahekunnisa/)
 [![Hashnode Badge](https://img.shields.io/badge/-@mahekunnisa-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://mahekunnisa.hashnode.dev/)](https://mahekunnisa.hashnode.dev/)
@@ -9,7 +16,8 @@ I am Mahek. Currently I am a graduate from Osmania University, Hyderabad.I am a 
 
 ## ⚡ Technologies
 
-### Language :
+### Languages :
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -32,6 +40,7 @@ I am Mahek. Currently I am a graduate from Osmania University, Hyderabad.I am a 
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 
 ## 📈 Stats
+
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahekunnisa&show_icons=true&theme=tokyonight" />
