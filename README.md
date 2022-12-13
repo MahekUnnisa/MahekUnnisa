@@ -3,8 +3,8 @@
 I am Mahek. Currently I am a graduate from Osmania University, Hyderabad. 
 I am a Self-taught FullStack Developer and Open Source Enthusiast. Whenever there is an opportunity to collaborate or develop innovative ideas, I'm always open to learn more. 
 
-* _I am looking for entry level roles in Web development._
-* _I am Open to collaborate and built exciting stuff._
+* _I am looking for entry-level roles in Web development._
+* _I am open to collaborating and building exciting stuff._
 * _I am always ready to learn._
 
 Find out more about me & feel free to connect with me here:
