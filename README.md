@@ -1,8 +1,8 @@
-<img align="center" src="./READMEheader.png"/>
+<img align="center" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/README%20Header.png"/>
 
 # 
 
-<h3 align="center">A passionate Self-taught Fullstack developer</h3>
+<h3 align="center">A Passionate and Self-taught Fullstack developer from India</h3>
 <br/>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=mahekunnisa alt=MahekUnnisa/> </p>
 <p align="center">
