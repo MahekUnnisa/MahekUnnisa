@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/README%40Header.png"/>
+<img align="center" src="./READMEheader.png"/>
 
 # 
 
