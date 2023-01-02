@@ -4,7 +4,6 @@
 
 <h3 align="center">A Passionate and Self-taught Fullstack developer from India</h3>
 <br/>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=mahekunnisa alt=MahekUnnisa/> </p>
 <p align="center">
 	<li>I am looking for entry-level roles in Web development.</li>
 	<li>I am open to collaborating and building exciting stuff.</li>
