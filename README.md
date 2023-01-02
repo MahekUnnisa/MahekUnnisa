@@ -53,7 +53,7 @@
 		<a href="https://twitter.com/themahekunnisa" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mahekunnisa" height="30" width="40" /></a>
 		<a href="https://mahekunnisa.hashnode.dev" target="blank"><img align="left" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/brand-icon.png" alt="mahekunnisa" height="30" width="30" /></a>
 		<a href="https://dev.to/mahekunnisa" target="blank"><img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="mahekunnisa" height="30" width="40" /></a>
-		<a href="https://medium.com/mahekunnisa" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="mahekunnisa" height="30" width="40" /></a>
+		<a href="https://medium.com/mahekunnisa" target="blank"><img align="left" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/Medium-Symbol-Black-RGB.svg" alt="mahekunnisa" height="30" width="40" /></a>
 		<a href="https://linkedin.com/in/mahekunnisa" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mahekunnisa" height="30" width="40" /></a>
 	</p>
 <a href="https://github.com/mahekunnisa/github-readme-stats"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahekunnisa&layout=compact&theme=radical&hide_border=true" /></a>
