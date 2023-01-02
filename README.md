@@ -1,18 +1,10 @@
 ## Hi, I am Mahek Unnisa! Great to see you here! 👋
 
-I am Mahek. Currently I am a graduate from Osmania University, Hyderabad. 
 I am a Self-taught FullStack Developer and Open Source Enthusiast. Whenever there is an opportunity to collaborate or develop innovative ideas, I'm always open to learn more. 
 
 * _I am looking for entry-level roles in Web development._
 * _I am open to collaborating and building exciting stuff._
 * _I am always ready to learn._
-
-Find out more about me & feel free to connect with me here:
-
-[![Linkedin Badge](https://img.shields.io/badge/-mahekunnisa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahekunnisa/)](https://www.linkedin.com/in/mahekunnisa/)
-[![Hashnode Badge](https://img.shields.io/badge/-@mahekunnisa-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://mahekunnisa.hashnode.dev/)](https://mahekunnisa.hashnode.dev/)
-[![Gmail Badge](https://img.shields.io/badge/-mahekunnisa011@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahekunnisa011@gmail.com)](mailto:mahekunnisa011@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@themahekunnisa-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/themahekunnisa.com)](https://twitter.com/themahekunnisa)
 
 ## ⚡ Technologies
 
@@ -40,10 +32,61 @@ Find out more about me & feel free to connect with me here:
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 
 ## 📈 Stats
-
 <p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahekunnisa&show_icons=true&theme=tokyonight" />
-   [![GitHub Streak](https://streak-stats.demolab.com?user=mahekunnisa&theme=violet-punch)](https://git.io/streak-stats)
-  
+	<picture width="48%">
+	<source 
+	  srcset="https://github-readme-stats.vercel.app/api?username=mahekunnisa&show_icons=true&theme=radical"
+	  media="(prefers-color-scheme: dark)"
+	/>
+	<source
+	  srcset="https://github-readme-stats.vercel.app/api?username=mahekunnisa&show_icons=true"
+	  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	/>
+	<img src="https://github-readme-stats.vercel.app/api?username=mahekunnisa&show_icons=true" />
+	</picture>
+	<picture width="48%">
+	<source 
+	  srcset="https://github-readme-streak-stats.herokuapp.com/?user=mahekunnisa&show_icons=true&theme=radical"
+	  media="(prefers-color-scheme: dark)"
+	/>
+	<source
+	  srcset="https://github-readme-streak-stats.herokuapp.com/?user=mahekunnisa&show_icons=true"
+	  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	/>
+	<img src="https://github-readme-streak-stats.heroku.app/?user=mahekunnisa&show_icons=true" />
+	</picture>
 </p>
+<p align="center">
+	<picture width="48%">
+	<source 
+	  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahekunnisa&exclude_repo=links&layout=compact&theme=radical"
+	  media="(prefers-color-scheme: dark)"
+	/>
+	<source
+	  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mahekunnisa&exclude_repo=links&layout=compact&theme=radical"
+	  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahekunnisa&exclude_repo=links&layout=compact&theme=radical" />
+	</picture>
+
+
+
+
+<h3 align="left">Connect with me:</h3>  
+<p align="left">  
+<a href="https://dev.to/mahekunnisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mahekunnisa" height="30" width="40" /></a>  
+<a href="https://twitter.com/themahekunnisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="themahekunnisa" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/mahekunnisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahek unnisa" height="30" width="40" /></a>  
+<a href="https://hashnode.com/@mahekunnisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mahekunnisa" height="30" width="40" /></a>  
+<a href="https://medium.com/mahekunnisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mahekunnisa" height="30" width="40" /></a>  
+<a href="https://www.leetcode.com/mahek_unnisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahek_unnisa" height="30" width="40" /></a>  
+	
+[![Linkedin Badge](https://img.shields.io/badge/-mahekunnisa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahekunnisa/)](https://www.linkedin.com/in/mahekunnisa/)
+[![Gmail Badge](https://img.shields.io/badge/-mahekunnisa011@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahekunnisa011@gmail.com)](mailto:mahekunnisa011@gmail.com)
+</p>  
+  
+## Daily Contribution Graph
+[![MahekUnnisa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mahekunnisa&theme=rogue)](https://github.com/mahekunnisa/github-readme-activity-graph)
+
+
+
