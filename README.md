@@ -1,10 +1,15 @@
-## Hi, I am Mahek Unnisa! Great to see you here! 👋
+<img align="center" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/README%40Header.png"/>
 
-I am a Self-taught FullStack Developer and Open Source Enthusiast. Whenever there is an opportunity to collaborate or develop innovative ideas, I'm always open to learn more. 
+# 
 
-* _I am looking for entry-level roles in Web development._
-* _I am open to collaborating and building exciting stuff._
-* _I am always ready to learn._
+<h3 align="center">A passionate Self-taught Fullstack developer</h3>
+<br/>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=mahekunnisa alt=MahekUnnisa/> </p>
+<p align="center">
+	<li>I am looking for entry-level roles in Web development.</li>
+	<li>I am open to collaborating and building exciting stuff.</li>
+	<li>I am always ready to learn.</li>
+</p>
 
 ## ⚡ Technologies
 
@@ -18,75 +23,39 @@ I am a Self-taught FullStack Developer and Open Source Enthusiast. Whenever ther
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ### Libraries & Framework :
-
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=Django)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Node.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?style=flat-square&logo=TailwindCSS)
-
-<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+<a href="#"><img alt="Sqlite3" src ="https://img.shields.io/badge/SQLite3-blue.svg?style=flat-square&logo=sqlite&logoColor=white"></a>
 
 ### DevOps & Cloud Tools:
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+## Latest Blog Posts
 
-## 📈 Stats
+<ul align="left" width="48%">
+<li><a href="https://mahekunnisa.hashnode.dev/fetch-api-in-javascript">Understanding Fetch API in Javascript with an exercise</li>
+<li><a href="https://mahekunnisa.hashnode.dev/year-of-terrible-mistakes-dev-retro-2022">Year of Terrible Mistakes and a wakeup call - DEV RETRO 2022</li>
+</ul>
+
+## Stats:
+
 <p align="center">
-	<picture width="48%">
-	<source 
-	  srcset="https://github-readme-stats.vercel.app/api?username=mahekunnisa&show_icons=true&theme=radical"
-	  media="(prefers-color-scheme: dark)"
-	/>
-	<source
-	  srcset="https://github-readme-stats.vercel.app/api?username=mahekunnisa&show_icons=true"
-	  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-	/>
-	<img src="https://github-readme-stats.vercel.app/api?username=mahekunnisa&show_icons=true" />
-	</picture>
-	<picture width="48%">
-	<source 
-	  srcset="https://github-readme-streak-stats.herokuapp.com/?user=mahekunnisa&show_icons=true&theme=radical"
-	  media="(prefers-color-scheme: dark)"
-	/>
-	<source
-	  srcset="https://github-readme-streak-stats.herokuapp.com/?user=mahekunnisa&show_icons=true"
-	  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-	/>
-	<img src="https://github-readme-streak-stats.heroku.app/?user=mahekunnisa&show_icons=true" />
-	</picture>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahekunnisa&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahekunnisa&theme=radical" />
 </p>
 <p align="center">
-	<picture width="48%">
-	<source 
-	  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahekunnisa&exclude_repo=links&layout=compact&theme=radical"
-	  media="(prefers-color-scheme: dark)"
-	/>
-	<source
-	  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mahekunnisa&exclude_repo=links&layout=compact&theme=radical"
-	  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-	/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahekunnisa&exclude_repo=links&layout=compact&theme=radical" />
-	</picture>
-
-
-
-
-<h3 align="left">Connect with me:</h3>  
-<p align="left">  
-<a href="https://dev.to/mahekunnisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mahekunnisa" height="30" width="40" /></a>  
-<a href="https://twitter.com/themahekunnisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="themahekunnisa" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/mahekunnisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahek unnisa" height="30" width="40" /></a>  
-<a href="https://hashnode.com/@mahekunnisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mahekunnisa" height="30" width="40" /></a>  
-<a href="https://medium.com/mahekunnisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mahekunnisa" height="30" width="40" /></a>  
-<a href="https://www.leetcode.com/mahek_unnisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahek_unnisa" height="30" width="40" /></a>  
-	
-[![Linkedin Badge](https://img.shields.io/badge/-mahekunnisa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahekunnisa/)](https://www.linkedin.com/in/mahekunnisa/)
-[![Gmail Badge](https://img.shields.io/badge/-mahekunnisa011@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahekunnisa011@gmail.com)](mailto:mahekunnisa011@gmail.com)
-</p>  
-  
-## Daily Contribution Graph
-[![MahekUnnisa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mahekunnisa&theme=rogue)](https://github.com/mahekunnisa/github-readme-activity-graph)
-
+	<h3 align="left">Connect with me:</h3>
+	<p align="center" width="48%">
+		<a href="https://twitter.com/themahekunnisa" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mahekunnisa" height="30" width="40" /></a>
+		<a href="https://mahekunnisa.hashnode.dev" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="mahekunnisa" height="30" width="40" /></a>
+		<a href="https://dev.to/mahekunnisa" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mahekunnisa" height="30" width="40" /></a>
+		<a href="https://linkedin.com/in/mahekunnisa" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mahekunnisa" height="30" width="40" /></a>
+	</p>
+<a href="https://github.com/mahekunnisa/github-readme-stats"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahekunnisa&layout=compact&theme=radical&hide_border=true" /></a>
+</p>
 
 
