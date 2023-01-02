@@ -41,4 +41,8 @@ Find out more about me & feel free to connect with me here:
 
 ## 📈 Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=mahekunnisa&theme=violet-punch)](https://git.io/streak-stats)
-
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahekunnisa&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahekunnisa&theme=tokyonight" />
+</p>
