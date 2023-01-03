@@ -49,9 +49,9 @@
 <p align="center">
 	<h3 align="left">Connect with me:</h3>
 	<p align="center" width="48%">
-		<a href="https://twitter.com/themahekunnisa" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mahekunnisa" height="30" width="40" /></a>
-		<a href="https://mahekunnisa.hashnode.dev" target="blank"><img align="left" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/brand-icon.png" alt="mahekunnisa" height="30" width="30" /></a>
-		<a href="https://dev.to/themahekunnisa" target="blank"><img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="mahekunnisa" height="30" width="40" /></a>
+		<a href="https://twitter.com/themahekunnisa" target="blank"><img align="left" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/icons8-twitter.svg" alt="mahekunnisa" height="50" width="50" /></a>
+		<a href="https://mahekunnisa.hashnode.dev" target="blank"><img align="left" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/brand-icon.png" alt="mahekunnisa" height="40" width="40" /></a>
+		<a href="https://dev.to/themahekunnisa" target="blank"><img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="mahekunnisa" height="50" width="50" /></a>
 		<a href="https://medium.com/@mahekunnisa" target="blank"><img align="left" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/Medium-Symbol-Black-RGB.svg" alt="mahekunnisa" height="30" width="40" /></a>
 		<a href="https://linkedin.com/in/mahekunnisa" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mahekunnisa" height="30" width="40" /></a>
 	</p>
