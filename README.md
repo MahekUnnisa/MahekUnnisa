@@ -22,25 +22,26 @@
 
 ### Languages :
 
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C++)
+![JavaScript](https://img.shields.io/badge/-JavaScript-EDD718?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-3595CF?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-sass-C76494?style=for-the-badge&logo=sass&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-EA8C10?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Libraries & Framework :
 
-![Django](https://img.shields.io/badge/-Django-green?style=for-the-badge&logo=Django)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
-![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=for-the-badge&logo=Node.js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?style=for-the-badge&logo=TailwindCSS)
-![SQLite3](https://img.shields.io/badge/SQLite3-ff69b4.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-29A373?style=for-the-badge&logo=Django&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-67B73D?style=for-the-badge&logo=Node.js&logoColor=white)
+![Expressjs](https://img.shields.io/badge/-Expressjs-grey?style=for-the-badge&logo=Node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-darkblue?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+![SQLite3](https://img.shields.io/badge/-SQLite3-87D5F1.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### DevOps & Cloud Tools:
 
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/-Git-gray?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Latest Blog Posts
@@ -61,7 +62,7 @@
 	<p align="center" width="48%">
 		<a href="https://twitter.com/themahekunnisa" target="blank"><img align="left" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/icons8-twitter.svg" alt="mahekunnisa" height="50" width="50" /></a>
 		<a href="https://mahekunnisa.hashnode.dev" target="blank"><img align="left" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/brand-icon.png" alt="mahekunnisa" height="40" width="40" /></a>
-		<a href="https://dev.to/themahekunnisa" target="blank"><img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="mahekunnisa" height="50" width="50" /></a>
+		<a href="https://dev.to/themahekunnisa" target="blank"><img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="mahekunnisa" height="50" width="50" /></a>
 		<a href="https://linkedin.com/in/mahekunnisa" target="blank"><img align="left" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/icons8-linkedin.svg" alt="mahekunnisa" height="50" width="50" /></a>
 		<a href="mailto: mahekunnisa011@gmail.com" target="blank"><img align="left" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/Gmail_Logo.svg" alt="mahekunnisa" height="50" width="50" /></a>
 	</p>
