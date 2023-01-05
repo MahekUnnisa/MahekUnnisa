@@ -5,6 +5,14 @@
 <h3 align="center">A Passionate and Self-taught Fullstack developer from India</h3>
 <br/>
 <p align="center">
+  <a href="http://twitter.com/themahekunnisa">
+    <img src="https://img.shields.io/twitter/follow/themahekunnisa?label=Twitter&logo=twitter&style=for-the-badge&color=darkblue" alt="Mahek Unnisa's Twitter"/>
+  </a>
+  <a href="http://github.com/MahekUnnisa">
+    <img src="https://komarev.com/ghpvc/?username=mahekunnisa&label=GITHUB+ +VISITS&style=for-the-badge&color=ff69b4" alt="Mahek Unnisa's Github visits"/>
+  </a>
+</p>
+<p align="center">
 	<li>I am looking for entry-level roles in Web development.</li>
 	<li>I am open to collaborating and building exciting stuff.</li>
 	<li>I am always ready to learn.</li>
@@ -14,25 +22,27 @@
 
 ### Languages :
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 
 ### Libraries & Framework :
-![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=Django)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Node.js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?style=flat-square&logo=TailwindCSS)
-<a href="#"><img alt="Sqlite3" src ="https://img.shields.io/badge/SQLite3-blue.svg?style=flat-square&logo=sqlite&logoColor=white"></a>
+
+![Django](https://img.shields.io/badge/-Django-green?style=for-the-badge&logo=Django)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
+![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=for-the-badge&logo=Node.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?style=for-the-badge&logo=TailwindCSS)
+![SQLite3](https://img.shields.io/badge/SQLite3-ff69b4.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### DevOps & Cloud Tools:
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ## Latest Blog Posts
 
 <ul align="left" width="48%">
