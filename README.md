@@ -4,18 +4,23 @@
 
 <h3 align="center">A Passionate and Self-taught Fullstack developer from India</h3>
 <br/>
-<p align="center">
+<p align="left">
   <a href="http://twitter.com/themahekunnisa">
     <img src="https://img.shields.io/twitter/follow/themahekunnisa?label=Twitter&logo=twitter&style=for-the-badge&color=darkblue" alt="Mahek Unnisa's Twitter"/>
   </a>
   <a href="http://github.com/MahekUnnisa">
     <img src="https://komarev.com/ghpvc/?username=mahekunnisa&label=GITHUB+ +VISITS&style=for-the-badge&color=ff69b4" alt="Mahek Unnisa's Github visits"/>
   </a>
+  <a href="http://github.com/MahekUnnisa">
+    <img width="36%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahekunnisa&layout=compact&theme=radical&hide_border=true" />
+  </a>
 </p>
 <p align="center">
-	<li>I am looking for entry-level roles in Web development.</li>
-	<li>I am open to collaborating and building exciting stuff.</li>
-	<li>I am always ready to learn.</li>
+    <p width="48%">
+        <li>I am looking for entry-level roles in Web development.</li>
+        <li>I am open to collaborating and building exciting stuff.</li>
+        <li>I am always ready to learn.</li>
+    </p>  
 </p>
 
 ## ⚡ Technologies
@@ -46,7 +51,7 @@
 
 ## Latest Blog Posts
 
-<ul align="left" width="48%">
+<ul align="left">
 <li><a href="https://mahekunnisa.hashnode.dev/fetch-api-in-javascript">Understanding Fetch API in Javascript with an exercise</li>
 <li><a href="https://mahekunnisa.hashnode.dev/year-of-terrible-mistakes-dev-retro-2022">Year of Terrible Mistakes and a wakeup call - DEV RETRO 2022</li>
 </ul>
@@ -66,7 +71,5 @@
 		<a href="https://linkedin.com/in/mahekunnisa" target="blank"><img align="left" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/icons8-linkedin.svg" alt="mahekunnisa" height="50" width="50" /></a>
 		<a href="mailto: mahekunnisa011@gmail.com" target="blank"><img align="left" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/Gmail_Logo.svg" alt="mahekunnisa" height="50" width="50" /></a>
 	</p>
-<a href="https://github.com/mahekunnisa/github-readme-stats"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahekunnisa&layout=compact&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/mahekunnisa/github-readme-stats"><img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahekunnisa&theme=radical&layout=compact" /></a>
 </p>
-
-
