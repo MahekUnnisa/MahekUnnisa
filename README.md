@@ -6,7 +6,7 @@
 <br/>
 <p align="left">
   <a href="http://twitter.com/themahekunnisa">
-    <img src="https://img.shields.io/twitter/follow/themahekunnisa?label=Twitter&logo=twitter&style=for-the-badge&color=darkblue" alt="Mahek Unnisa's Twitter"/>
+    <img src="https://img.shields.io/badge/follow-%40themahekunnisa?label=Twitter&logo=twitter&style=for-the-badge&color=darkblue" alt="Mahek Unnisa's Twitter"/>
   </a>
   <a href="http://github.com/MahekUnnisa">
     <img src="https://komarev.com/ghpvc/?username=mahekunnisa&label=GITHUB+ +VISITS&style=for-the-badge&color=ff69b4" alt="Mahek Unnisa's Github visits"/>
