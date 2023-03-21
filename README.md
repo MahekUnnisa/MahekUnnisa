@@ -21,6 +21,7 @@
 ### Languages :
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=white)
+![PHP](https://img.shields.io/badge/-php-purple?style=for-the-badge&logo=PHP&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C++)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-EDD718?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,6 +32,7 @@
 ### Libraries & Framework :
 
 ![Django](https://img.shields.io/badge/-Django-29A373?style=for-the-badge&logo=Django&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-563D7C?style=for-the-badge&logo=Laravel&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-67B73D?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Expressjs](https://img.shields.io/badge/-Expressjs-grey?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
