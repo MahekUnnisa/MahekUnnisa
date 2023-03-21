@@ -15,13 +15,6 @@
     <img width="36%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahekunnisa&layout=compact&theme=radical&hide_border=true" />
   </a>
 </p>
-<p align="center">
-    <p width="48%">
-        <li>I am looking for entry-level roles in Web development.</li>
-        <li>I am open to collaborating and building exciting stuff.</li>
-        <li>I am always ready to learn.</li>
-    </p>  
-</p>
 
 ## ⚡ Technologies
 
