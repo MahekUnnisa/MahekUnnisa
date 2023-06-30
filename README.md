@@ -44,19 +44,6 @@
 ![Git](https://img.shields.io/badge/-Git-gray?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Latest Blog Posts
-
-<ul align="left">
-<li><a href="https://mahekunnisa.hashnode.dev/fetch-api-in-javascript">Understanding Fetch API in Javascript with an exercise</li>
-<li><a href="https://mahekunnisa.hashnode.dev/year-of-terrible-mistakes-dev-retro-2022">Year of Terrible Mistakes and a wakeup call - DEV RETRO 2022</li>
-</ul>
-
-## Stats:
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahekunnisa&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahekunnisa&theme=radical" />
-</p>
 <p align="center">
 	<h3 align="left">Connect with me:</h3>
 	<p align="center" width="48%">
@@ -66,5 +53,4 @@
 		<a href="https://linkedin.com/in/mahekunnisa" target="blank"><img align="left" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/icons8-linkedin.svg" alt="mahekunnisa" height="50" width="50" /></a>
 		<a href="mailto: mahekunnisa011@gmail.com" target="blank"><img align="left" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/Gmail_Logo.svg" alt="mahekunnisa" height="50" width="50" /></a>
 	</p>
-<a href="https://github.com/mahekunnisa/github-readme-stats"><img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahekunnisa&theme=radical&layout=compact" /></a>
 </p>
