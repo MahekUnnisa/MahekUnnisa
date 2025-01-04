@@ -1,19 +1,26 @@
-<img align="center" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/README%20Header.png"/>
+<p align="center">
+  <img src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/README%20Header.png" alt="Header Image" />
+</p>
 
-# 
+<h3 align="center">A Passionate and Self-Taught Fullstack Developer from India</h3>
 
-<h3 align="center">A Passionate and Self-taught Fullstack developer from India</h3>
-<br/>
-<p align="left">
+<br />
+
+<p align="center">
   <a href="http://twitter.com/themahekunnisa">
-    <img src="https://img.shields.io/badge/follow-%40themahekunnisa?label=Twitter&logo=twitter&style=for-the-badge&color=darkblue" alt="Mahek Unnisa's Twitter"/>
+    <img src="https://img.shields.io/twitter/follow/themahekunnisa?style=for-the-badge&logo=x&logoColor=black&color=white&labelColor=white" alt="X Badge" />
   </a>
   <a href="http://github.com/MahekUnnisa">
-    <img src="https://komarev.com/ghpvc/?username=mahekunnisa&label=GITHUB+ +VISITS&style=for-the-badge&color=ff69b4" alt="Mahek Unnisa's Github visits"/>
+    <img src="https://komarev.com/ghpvc/?username=mahekunnisa&label=PROFILE+VIEWS&style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=ff69b4" alt="GitHub Visits" />
   </a>
-  <a href="http://github.com/MahekUnnisa">
-    <img width="36%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahekunnisa&layout=compact&theme=radical&hide_border=true" />
-  </a>
+</p>
+
+<p align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mahekunnisa&layout=compact&theme=radical&hide_border=true" alt="Wakatime Stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahekunnisa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<p align="center">
+	<img height=200 align="center" src="https://streak-stats.demolab.com/?user=mahekunnisa&layout=compact&theme=radical&hide_border=true" alt="Streak" />
+</p>
 </p>
 
 ## ⚡ Technologies
@@ -44,13 +51,19 @@
 ![Git](https://img.shields.io/badge/-Git-gray?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p align="center">
-	<h3 align="left">Connect with me:</h3>
-	<p align="center" width="48%">
-		<a href="https://twitter.com/themahekunnisa" target="blank"><img align="left" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/icons8-twitter.svg" alt="mahekunnisa" height="50" width="50" /></a>
-		<a href="https://mahekunnisa.hashnode.dev" target="blank"><img align="left" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/brand-icon.png" alt="mahekunnisa" height="40" width="40" /></a>
-		<a href="https://dev.to/themahekunnisa" target="blank"><img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="mahekunnisa" height="40" width="40" /></a>
-		<a href="https://linkedin.com/in/mahekunnisa" target="blank"><img align="left" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/icons8-linkedin.svg" alt="mahekunnisa" height="50" width="50" /></a>
-		<a href="mailto: mahekunnisa011@gmail.com" target="blank"><img align="left" src="https://github.com/MahekUnnisa/MahekUnnisa/blob/main/Gmail_Logo.svg" alt="mahekunnisa" height="50" width="50" /></a>
-	</p>
+<h3 align="left">🌟 Connect With Me 🌟</h3>
+
+<p align="left">
+  <a href="https://twitter.com/themahekunnisa" target="_blank">
+    <img src="https://logo.clearbit.com/twitter.com" alt="Twitter" height="40" width="40" />
+  </a>
+  <a href="https://dev.to/themahekunnisa" target="_blank">
+    <img src="https://logo.clearbit.com/dev.to" alt="Dev.to" height="40" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/mahekunnisa" target="_blank">
+    <img src="https://logo.clearbit.com/linkedin.com" alt="LinkedIn" height="35" width="35" />
+  </a>
+  <a href="mailto:mahekunnisa011@gmail.com" target="_blank">
+    <img src="https://logo.clearbit.com/gmail.com" alt="Email" height="40" width="40" />
+  </a>
 </p>
