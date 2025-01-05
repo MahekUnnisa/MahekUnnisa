@@ -7,10 +7,10 @@
 <br />
 
 <p align="center">
-  <a href="http://twitter.com/themahekunnisa">
+  <a href="https://x.com/themahekunnisa">
     <img src="https://img.shields.io/twitter/follow/themahekunnisa?style=for-the-badge&logo=x&logoColor=black&color=white&labelColor=white" alt="X Badge" />
   </a>
-  <a href="http://github.com/MahekUnnisa">
+  <a href="https://github.com/MahekUnnisa">
     <img src="https://komarev.com/ghpvc/?username=mahekunnisa&label=PROFILE+VIEWS&style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=ff69b4" alt="GitHub Visits" />
   </a>
 </p>
