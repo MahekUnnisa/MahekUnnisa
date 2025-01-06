@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mahekunnisa&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Wakatime Stats" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahekunnisa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height=200 width=48% align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mahekunnisa&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Wakatime Stats" />
+  <img height=200 width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahekunnisa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 <p align="center">
 	<img height=200 align="center" src="https://streak-stats.demolab.com/?user=mahekunnisa&layout=compact&theme=radical&hide_border=true&hide_total_contributions=true" alt="Streak" />
 </p>
